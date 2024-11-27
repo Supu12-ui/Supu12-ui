@@ -35,6 +35,12 @@
 - 🌱 Passionate about learning cutting-edge technologies and building scalable solutions.
 - 🏆 Among the **Top 44 Brightest Coding Minds** in the Economic Times Campus Coding Stars.
 
+## ✍️ Blog Collaborations
+- **System Design** – [View on GeeksforGeeks](https://www.geeksforgeeks.org/user/supriyami26p4/contributions/?itm_source=geeksforgeeks&itm_medium=article_author&itm_campaign=auth_user)
+- **Design Patterns** – [View on GeeksforGeeks](https://www.geeksforgeeks.org/user/supriyami26p4/contributions/?itm_source=geeksforgeeks&itm_medium=article_author&itm_campaign=auth_user)
+
+Contributed articles on complex topics such as system design and design patterns, sharing insights and practical approaches for developers.
+
 ## 🚀 Projects
 ### 🔹 [AI-Enabled Fin-tech B2B Invoice Management Application](#)
 - **Overview**: Developed a dynamic receivables dashboard using advanced data visualization techniques.
