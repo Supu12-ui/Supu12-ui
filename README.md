@@ -13,9 +13,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Supu12-ui&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Supriya%20Mishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/supriya-mishra)
+[![LinkedIn](https://img.shields.io/badge/-Supriya%20Mishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-mishra-she-her-a46a7b1b2/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Supu12-ui)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/supriya/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/1928204/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/supriyam335)
 
 
