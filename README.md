@@ -35,7 +35,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 **Currently working as **Associate Software Engineer** at WebMobril Technology.
-- 🎓 B.Tech in Computer Science and Engineering** from KIIT, Bhubaneswar (CGPA: 9.1)
+- 🎓 *B.Tech in Computer Science and Engineering* from KIIT, Bhubaneswar (CGPA: 9.1)
 - 🌱 Passionate about learning cutting-edge technologies and building scalable solutions.
 - 🏆 Among the **Top 44 Brightest Coding Minds** in the Economic Times Campus Coding Stars.
 
