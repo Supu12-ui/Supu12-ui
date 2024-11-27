@@ -46,3 +46,8 @@
 ![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supu12-ui&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supu12-ui&layout=compact&theme=radical)
 
+
+### 📜 Certifications
+- [![Udemy - Spring Microservices](https://img.shields.io/badge/-Udemy%20Course%20Spring%20Microservices-blue?style=flat)](#)
+- [![Coursera - Agile Practices](https://img.shields.io/badge/-Coursera%20Software%20Processes-orange?style=flat)](#)
+
