@@ -3,12 +3,13 @@
 
 ## 📊 GitHub Stats
 ![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supu12-ui&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supu12-ui&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Supu12-ui&theme=github)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Supu12-ui&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Supu12-ui.visitor-badge)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Supu12-ui&theme=radical)
 
 ## 🌐 Connect with Me
