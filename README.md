@@ -1,5 +1,12 @@
 # Hi there, I'm Supriya Mishra! 👋
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-Supriya%20Mishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/supriya-mishra)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Supu12-ui)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/supriya/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/supriyam335)
+
+
 ## 🛠️ Skills & Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,8 +46,3 @@
 ![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supu12-ui&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supu12-ui&layout=compact&theme=radical)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Supriya%20Mishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/supriya-mishra)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Supu12-ui)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/supriya/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/supriyam335)
