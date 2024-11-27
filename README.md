@@ -1,5 +1,5 @@
 # Hi there, I'm Supriya Mishra! 👋
-## *Associate Software Engineer at Webmobril,
+## * Associate Software Engineer at Webmobril,
 * Working as a Backend Developer and AI/ML Engineer.
 
 
