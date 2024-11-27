@@ -1,5 +1,16 @@
 # Hi there, I'm Supriya Mishra! 👋
 
+
+## 📊 GitHub Stats
+![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supu12-ui&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supu12-ui&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Supu12-ui&theme=github)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Supu12-ui&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Supu12-ui.visitor-badge)
+![GitHub Streak](https://streak-stats.demolab.com?user=Supu12-ui&theme=radical)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-Supriya%20Mishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/supriya-mishra)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Supu12-ui)
@@ -41,18 +52,6 @@
 - **Finalist**: Indus Valley Hackathon.
 - **Top 15**: She Code 3.0 by Skillenza.
 - **ET Campus Coding Stars**: Among the Top 44 from 49,000+ students.
-
-## 📊 GitHub Stats
-![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supu12-ui&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supu12-ui&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Supu12-ui&theme=github)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Supu12-ui&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Supu12-ui.visitor-badge)
-![GitHub Streak](https://streak-stats.demolab.com?user=Supu12-ui&theme=radical)
-
-
 
 ### 📜 Certifications
 - [![Udemy - Spring Microservices](https://img.shields.io/badge/-Udemy%20Course%20Spring%20Microservices-blue?style=flat)](#)
