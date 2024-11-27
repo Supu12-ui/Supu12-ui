@@ -1,4 +1,6 @@
 # Hi there, I'm Supriya Mishra! 👋
+## *Associate Software Engineer at Webmobril,
+* Working as a Backend Developer and AI/ML Engineer.
 
 
 ## 📊 GitHub Stats
@@ -31,8 +33,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 👩‍💻 About Me
-- 🎓 **B.Tech in Computer Science and Engineering** from KIIT, Bhubaneswar (CGPA: 9.1)
-- 🔭 Currently working as **Associate Software Engineer** at WebMobril Technology.
+
+- 🔭 **Currently working as **Associate Software Engineer** at WebMobril Technology.
+- 🎓 B.Tech in Computer Science and Engineering** from KIIT, Bhubaneswar (CGPA: 9.1)
 - 🌱 Passionate about learning cutting-edge technologies and building scalable solutions.
 - 🏆 Among the **Top 44 Brightest Coding Minds** in the Economic Times Campus Coding Stars.
 
@@ -41,19 +44,6 @@
 - **Design Patterns** – [View on GeeksforGeeks](https://www.geeksforgeeks.org/user/supriyami26p4/contributions/?itm_source=geeksforgeeks&itm_medium=article_author&itm_campaign=auth_user)
 
 Contributed articles on complex topics such as system design and design patterns, sharing insights and practical approaches for developers.
-
-## 🚀 Projects
-### 🔹 [AI-Enabled Fin-tech B2B Invoice Management Application](#)
-- **Overview**: Developed a dynamic receivables dashboard using advanced data visualization techniques.
-- **Technologies**: Machine Learning (Python, Pandas, NumPy), Spring Boot, MySQL, HTML, CSS, JavaScript.
-
-### 🔹 [Travel and Tourism Management System](#)
-- **Overview**: Designed a system to manage travel arrangements and sightseeing information.
-- **Technologies**: Java Swing, Spring Boot, Microservices, SQL.
-
-### 🔹 [File Organizer System](#)
-- **Overview**: Tool to arrange files in specific directories based on extensions for better file management.
-- **Technologies**: Python, Django, PostgreSQL.
 
 ## 🌟 Achievements
 - **Finalist**: Indus Valley Hackathon.
